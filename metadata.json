@@ -1,0 +1,8 @@
+{
+  "name": "Remix StructuraLab - Structural Analysis \u0026 Reinforced Concrete Design",
+  "description": "Professional Civil Engineering Structural Analysis \u0026 Reinforced Concrete Design web application based on SNI 2847:2013 and classical structural mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
